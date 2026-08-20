@@ -9,5 +9,6 @@ public class Main {
         System.out.println("Hello please give me your name:");
         String name= sc.nextLine();
         System.out.println("Hello "+ name +" have a good day" );
+        System.out.println("Well "+ name +" bye bye");
     }
 }
