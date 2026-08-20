@@ -3,7 +3,19 @@
 ---
 **Autor:** Miguel Angel Ortega 
 
-**Descripcion:** Taller de programacion para conocer las bases de git/github 
+**Descripcion:** Taller de programacion para conocer las bases de git/github
+
+---
+**Propositos:** Comprender la importancia del control de versiones en proyectos de software.
+• Diferenciar Git, como herramienta local de control de versiones, de GitHub, como plataforma remota de
+colaboración.
+• Crear y gestionar un repositorio local mediante los comandos básicos de Git.
+• Conectar un repositorio local con GitHub y sincronizar cambios mediante push y pull.
+• Aplicar un flujo básico de trabajo con ramas, como preparación para el trabajo colaborativo y GitFlow
+---
+**Requisitos:** JDK 17 y Maven
+
+---
 
 **Aprendizajes**
 -------
